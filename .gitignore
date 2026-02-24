@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.whl
+# Distribution / packaging
+.Python
+build/
+dist/
+.venv/
+*.egg-info/
+.MacOSX
