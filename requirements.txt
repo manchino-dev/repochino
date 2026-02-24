@@ -1,3 +1,7 @@
-openai
+google-generativeai
+python-dotenv
 requests
 Flask
+pydantic
+langchain
+langchain-google-genai
